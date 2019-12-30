@@ -2,14 +2,14 @@
 
 How to use it:
 
-> php calendar.php {year}
+> Choisissez une date : {year}
  
 or
 
-> php calendar.php {month} {year}
+> Choisissez une date : {month} {year}
 
 or
 
-> php calendar.php {year} {month}
+> Choisissez une date : {year} {month}
 
 {month} must be between 01 and 12 // {year} must be less than 10000 

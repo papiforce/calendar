@@ -76,8 +76,8 @@ while(true){
   			}elseif($compteur <= 35){
   				echo "    ";
   			}if($compteur2 == 7){
-  				echo "|" . PHP_EOL;
-  			}
+          echo "|" . PHP_EOL . str_repeat("-", 36) . PHP_EOL;
+        }
   			$compteur += 1;
   			$compteur2 += 1;
   		}
@@ -86,7 +86,6 @@ while(true){
   			break;
   		}
   	}
-  	echo str_repeat("-", 36) . PHP_EOL;
   }
 
   // STEP 2

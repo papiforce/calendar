@@ -1,5 +1,9 @@
 # calendar
 
+Use calendar.php:
+
+> php calendar.php
+
 How to use it:
 
 > Choisissez une date : {year}

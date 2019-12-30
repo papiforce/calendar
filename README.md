@@ -12,5 +12,4 @@ or
 
 > php calendar.php {year} {month}
 
-{month} must be between 01 and 12
-{year} must be less than 10000 
+{month} must be between 01 and 12 // {year} must be less than 10000 
